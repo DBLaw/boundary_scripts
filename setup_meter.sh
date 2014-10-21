@@ -40,6 +40,7 @@ map Ubuntu 11.10 oneiric
 map Ubuntu 12.04 precise
 map Debian 5 lenny
 map Debian 6 squeeze
+map RHEL 6 FreePBX
 
 # For version number updates you hopefully don't need to modify below this line
 # -----------------------------------------------------------------------------
